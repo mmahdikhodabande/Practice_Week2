@@ -1,0 +1,14 @@
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\bin\Debug\net8.0\Student_Project.exe
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\bin\Debug\net8.0\Student_Project.deps.json
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\bin\Debug\net8.0\Student_Project.runtimeconfig.json
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\bin\Debug\net8.0\Student_Project.dll
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\bin\Debug\net8.0\Student_Project.pdb
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\obj\Debug\net8.0\Student_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\obj\Debug\net8.0\Student_Project.AssemblyInfoInputs.cache
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\obj\Debug\net8.0\Student_Project.AssemblyInfo.cs
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\obj\Debug\net8.0\Student_Project.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\obj\Debug\net8.0\Student_Project.dll
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\obj\Debug\net8.0\refint\Student_Project.dll
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\obj\Debug\net8.0\Student_Project.pdb
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\obj\Debug\net8.0\Student_Project.genruntimeconfig.cache
+C:\Users\Mehdi Kh\source\repos\Student_Project\Student_Project\obj\Debug\net8.0\ref\Student_Project.dll

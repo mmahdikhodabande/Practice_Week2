@@ -1,0 +1,14 @@
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\bin\Debug\net8.0\Statistics_Project.exe
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\bin\Debug\net8.0\Statistics_Project.deps.json
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\bin\Debug\net8.0\Statistics_Project.runtimeconfig.json
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\bin\Debug\net8.0\Statistics_Project.dll
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\bin\Debug\net8.0\Statistics_Project.pdb
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\obj\Debug\net8.0\Statistics_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\obj\Debug\net8.0\Statistics_Project.AssemblyInfoInputs.cache
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\obj\Debug\net8.0\Statistics_Project.AssemblyInfo.cs
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\obj\Debug\net8.0\Statistics_Project.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\obj\Debug\net8.0\Statistics_Project.dll
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\obj\Debug\net8.0\refint\Statistics_Project.dll
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\obj\Debug\net8.0\Statistics_Project.pdb
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\obj\Debug\net8.0\Statistics_Project.genruntimeconfig.cache
+C:\Users\Mehdi Kh\source\repos\Statistics_Project\Statistics_Project\obj\Debug\net8.0\ref\Statistics_Project.dll

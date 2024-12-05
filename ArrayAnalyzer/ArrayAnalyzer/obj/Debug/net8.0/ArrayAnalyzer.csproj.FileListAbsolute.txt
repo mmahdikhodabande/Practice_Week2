@@ -1,0 +1,14 @@
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\bin\Debug\net8.0\ArrayAnalyzer.exe
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\bin\Debug\net8.0\ArrayAnalyzer.deps.json
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\bin\Debug\net8.0\ArrayAnalyzer.runtimeconfig.json
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\bin\Debug\net8.0\ArrayAnalyzer.dll
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\bin\Debug\net8.0\ArrayAnalyzer.pdb
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\obj\Debug\net8.0\ArrayAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\obj\Debug\net8.0\ArrayAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\obj\Debug\net8.0\ArrayAnalyzer.AssemblyInfo.cs
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\obj\Debug\net8.0\ArrayAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\obj\Debug\net8.0\ArrayAnalyzer.dll
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\obj\Debug\net8.0\refint\ArrayAnalyzer.dll
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\obj\Debug\net8.0\ArrayAnalyzer.pdb
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\obj\Debug\net8.0\ArrayAnalyzer.genruntimeconfig.cache
+C:\Users\Mehdi Kh\source\repos\ArrayAnalyzer\ArrayAnalyzer\obj\Debug\net8.0\ref\ArrayAnalyzer.dll

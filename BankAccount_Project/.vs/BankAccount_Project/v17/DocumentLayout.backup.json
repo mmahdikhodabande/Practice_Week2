@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mehdi Kh\\source\\repos\\BankAccount_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCE3260-0DCE-45BF-AE59-810305F12CF9}|BankAccount_Project\\BankAccount_Project.csproj|c:\\users\\mehdi kh\\source\\repos\\bankaccount_project\\bankaccount_project\\bankaccountclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCE3260-0DCE-45BF-AE59-810305F12CF9}|BankAccount_Project\\BankAccount_Project.csproj|solutionrelative:bankaccount_project\\bankaccountclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCE3260-0DCE-45BF-AE59-810305F12CF9}|BankAccount_Project\\BankAccount_Project.csproj|c:\\users\\mehdi kh\\source\\repos\\bankaccount_project\\bankaccount_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCE3260-0DCE-45BF-AE59-810305F12CF9}|BankAccount_Project\\BankAccount_Project.csproj|solutionrelative:bankaccount_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountClass.cs",
+              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\BankAccount_Project\\BankAccount_Project\\BankAccountClass.cs",
+              "RelativeDocumentMoniker": "BankAccount_Project\\BankAccountClass.cs",
+              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\BankAccount_Project\\BankAccount_Project\\BankAccountClass.cs*",
+              "RelativeToolTip": "BankAccount_Project\\BankAccountClass.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:04:42.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\BankAccount_Project\\BankAccount_Project\\Program.cs",
+              "RelativeDocumentMoniker": "BankAccount_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\BankAccount_Project\\BankAccount_Project\\Program.cs",
+              "RelativeToolTip": "BankAccount_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:02:31.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
